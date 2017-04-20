@@ -1,0 +1,7 @@
+{
+  "name": "next-socket-io",
+  "alias": "next-socket-io.now.sh",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
